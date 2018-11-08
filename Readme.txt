@@ -1,0 +1,1 @@
+La base de datos se rellena desde la pestaña about por eso tarda unos 15-20 segundos en cargar.

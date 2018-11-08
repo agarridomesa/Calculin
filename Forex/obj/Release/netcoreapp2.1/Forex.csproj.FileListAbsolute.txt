@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\bin\Release\netcoreapp2.1\Forex.deps.json
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\bin\Release\netcoreapp2.1\Forex.dll
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\bin\Release\netcoreapp2.1\Forex.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\obj\Release\netcoreapp2.1\Forex.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\obj\Release\netcoreapp2.1\Forex.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\obj\Release\netcoreapp2.1\Forex.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\obj\Release\netcoreapp2.1\Forex.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\obj\Release\netcoreapp2.1\Forex.dll
+C:\Users\usuario\source\repos\CalculinAlberto\Forex\obj\Release\netcoreapp2.1\Forex.pdb

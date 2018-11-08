@@ -1,0 +1,32 @@
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioFuncCore.deps.json
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioFuncCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioFuncCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.csproj.CopyComplete
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioFuncCore.deps.json
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioFuncCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioFuncCore.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\bin\Debug\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.csproj.CopyComplete
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\RepositorioFuncCore\obj\Debug\netcoreapp2.1\RepositorioFuncCore.pdb

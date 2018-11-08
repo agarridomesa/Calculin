@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.deps.json
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\bin\Release\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.csproj.CopyComplete
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\ContextoCore\obj\Release\netcoreapp2.1\ContextoCore.pdb

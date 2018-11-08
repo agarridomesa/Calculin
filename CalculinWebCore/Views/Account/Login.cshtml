@@ -1,0 +1,23 @@
+﻿@model CalculinWebCore.ViewModels.LoginViewModel
+<div class="row"><br></div>
+<div class="col-sm-4 col-sm-offset-4">
+    <form asp-controller="Account" asp-action="Login" method="post" asp-route-returnurl="@ViewData["ReturnUrl"]" role="form">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <label class="control-label">Nick Name</label>
+
+        <input asp-for="Nick" class="form-control" />
+
+        <label class="control-label">Password</label>
+
+        <input asp-for="Password" class="form-control" />
+
+        <label class="control-label">Recuerdame</label>
+
+        <input asp-for="Rememberme" />
+
+        <button type="submit" class="btn btn-success btn-block">Conectarse</button>
+
+    </form>
+    </div>
+<div class="row"></div>

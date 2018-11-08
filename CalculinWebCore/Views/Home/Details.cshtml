@@ -1,0 +1,40 @@
+﻿@model CalculinWebCore.ViewModels.DetailsViewModel
+<h2>@Model.Moneda.Siglas</h2>
+<div class="thumbnail">
+    <img alt="@Model.Moneda.Nombre" src="https://www.worldatlas.com/r/w728-h425-c728x425/upload/d0/91/86/shutterstock-403371907.jpg">
+    <div class="caption-full">
+        <h3 class="pull-right">@Model.Moneda.Siglas</h3>
+        <h3>
+            <a href="#">@Model.Moneda.Nombre</a>
+        </h3>
+    </div>
+    @Model.Moneda.Id
+    <form asp-action="Details" method="post" role="form">
+        <div class="row">
+            <div class="col-md-6 col-lg-offset-3">
+                <div class="form-group">
+                    <label >Nombre</label>
+                    <input asp-for="Moneda.Nombre" type="text" class="form-control" value="@Model.Moneda.Nombre" />
+
+                </div>
+                <div class="form-group">
+                    <label >Siglas</label>
+                    <input asp-for="Moneda.Siglas" type="text" class="form-control" value="@Model.Moneda.Siglas" />
+
+                </div>
+                <div class="form-group">
+                    <label>En Uso</label>
+                    <select asp-for="Moneda.EnUso" class="form-control">
+                        <option value="true">True</option>
+                        <option value="false">False</option>
+                    </select>
+
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success">Actualizar</button>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</div>

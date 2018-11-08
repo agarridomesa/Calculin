@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\RepositorioCore.deps.json
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\RepositorioCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\ContextoCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\ContextoCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.csproj.CopyComplete
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\RepositorioCore\obj\Release\netcoreapp2.1\RepositorioCore.pdb

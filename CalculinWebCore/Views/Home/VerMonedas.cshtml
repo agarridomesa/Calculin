@@ -1,0 +1,24 @@
+﻿@model CalculinWeb.ViewModels.HomeViewModel
+<h2>@Model.Titulo</h2>
+
+@foreach (var moneda in Model.ListaMonedas)
+{
+    <div class="col-sm-4 col-lg-4 col-md-4">
+        <div class="thumbnail">
+            <img src="@Model.ImagenMoneda" alt="">
+            <div class="caption">
+                <h3 class="pull-right">@moneda.Siglas</h3>
+                <h3>
+                    <a asp-controller="Home"
+                       asp-action="Details"
+                       asp-route-id="@moneda.Id">@moneda.Siglas</a>
+                </h3>
+                <p>@moneda.Nombre</p>
+            </div>
+        </div>
+    </div>
+
+}
+<select asp-for="ID"
+        class="form-control"
+        asp-items="@(new SelectList(@Model.ListaMonedas,"Siglas", "Nombre"))"></select>

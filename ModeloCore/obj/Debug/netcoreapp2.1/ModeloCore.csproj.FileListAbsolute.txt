@@ -1,0 +1,18 @@
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\source\repos\CalculinAlberto\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\bin\Debug\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\Nueva carpeta\ModeloCore\obj\Debug\netcoreapp2.1\ModeloCore.pdb

@@ -1,0 +1,72 @@
+﻿@model CalculinWebCore.ViewModels.ConversorViewModel
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+            <div class="caption-full">
+                <form asp-action="Conversor" method="post" role="form">
+                    <div class="col-sm-6">
+                        <select asp-for="MonedasO"
+                                asp-items="@(new SelectList(@Model.ListaMonedas,"Siglas", "Nombre"))" class="form-control"></select>
+                    </div>
+                    <div class="col-sm-6">
+                        <select asp-for="MonedasD"
+                                asp-items="@(new SelectList(@Model.ListaMonedas,"Siglas", "Nombre"))" class="form-control"></select>
+                    </div>
+                    <div class="text-center">
+                        <label asp-for="Cifra" class="control-label h2">Cantidad</label>
+                    </div>
+                    <input asp-for="Cifra" class="form-control" />
+                    <div class="col-sm-6 col-sm-offset-3">
+                        @if (@Model.Resultado != 0)
+                        {
+                            <output class="form-control col-sm-2">@Model.Resultado</output>
+                        }
+                        else
+                        {
+                            <output class="form-control invisible">@Model.Resultado</output>
+                        }
+                    </div>
+                    <button type="submit" class="btn btn-success btn-block">Convertir</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        @if (@Model.ListaHistorial.Count() > 0)
+        {
+            <br />
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>Id</th>
+                                <th>Nombre de usuario</th>
+                                <th>Siglas de la moneda origen</th>
+                                <th>Siglas de la moneda destino</th>
+                                <th>Fecha</th>
+                                <th>Cantidad</th>
+                                <th>FactorConversion</th>
+                                <th>Resutado</th>
+                            </tr>
+                            @foreach (var historial in @Model.ListaHistorial)
+                            {
+                                <tr>
+                                    <th>@historial.Id</th>
+                                    <th>@historial.NickUsuario</th>
+                                    <th>@historial.SMO</th>
+                                    <th>@historial.SMD</th>
+                                    <th>@historial.Fecha</th>
+                                    <th>@historial.Cantidad</th>
+                                    <th>@historial.FactorConversion</th>
+                                    <th>@historial.Resutado</th>
+                                </tr>
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
